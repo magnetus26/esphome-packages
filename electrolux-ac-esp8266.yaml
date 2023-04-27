@@ -9,7 +9,7 @@ esphome:
     version: "1.0"
 
 dashboard_import:
-  package_import_url: github://dudanov/esphome-packages/electrolux-ac-esp8266.yaml
+  package_import_url: github://magnetus26/esphome-packages/electrolux-ac-esp8266.yaml
 
 packages:
   remote_package:
