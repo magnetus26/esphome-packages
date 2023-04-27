@@ -9,9 +9,7 @@ climate:
       temperature_step: 1 °C
     supported_modes:
       - FAN_ONLY
-      - HEAT_COOL
       - COOL
-      - HEAT
       - DRY
     supported_presets:
       - SLEEP
