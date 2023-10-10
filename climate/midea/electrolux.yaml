@@ -4,7 +4,7 @@ climate:
     icon: mdi:air-conditioner
     name: Climate
     id: midea_climate
-    autoconf: true
+    autoconf: false
     visual:                     
       temperature_step: 1 °C
     supported_modes:
