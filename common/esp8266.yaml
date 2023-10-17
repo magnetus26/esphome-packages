@@ -4,3 +4,6 @@ substitutions:
 esp8266:
   board: ${board}
   restore_from_flash: true
+
+preferences:
+  flash_write_interval: 0s
